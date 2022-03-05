@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SNAP_BASE="/mnt/hgfs/Disk2/UniFi-Snaps"
-SNAP_BASE="/nas/data/Development/UniFi/TimeLapse/UniFi-Timelapse/UniFi-Snaps"
+SNAP_BASE="/home/pi/snaps"
 OUT_DIR="$SNAP_BASE/timelapse"
 DATE_EXT=`date '+%F %H:%M'`
 
